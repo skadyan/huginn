@@ -57,7 +57,14 @@ And now, some example screenshots.  Below them are instructions to get you start
 
 The quickest and easiest way to check out Huginn is to use the official Docker image. Have a look at the [documentation](https://github.com/cantino/huginn/blob/master/doc/docker/install.md).
 
+### Pre-requisite
+* Ruby 
+*  "sudo yum install ruby"
+*  Install Ruby Gem https://rubygems.org/pages/download/
+*  "sudo gem install bundler"
+
 ### Local Installation
+
 
 If you just want to play around, you can simply fork this repository, then perform the following steps:
 
